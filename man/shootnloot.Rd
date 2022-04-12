@@ -36,5 +36,5 @@ called for side effects. \code{shoot_file()}, \code{loot_file()}, \code{shoot_wo
 since they are called for side effects.
 }
 \description{
-Upload or download an object, a script, or a full workspace
+Upload or download an object, a script, or the entire global environment
 }

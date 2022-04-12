@@ -38,7 +38,7 @@ new_id <- function(
 
 #' Shoot and loot
 #'
-#' Upload or download an object, a script, or a full workspace
+#' Upload or download an object, a script, or the entire global environment
 #'
 #' @param obj An object to upload
 #' @param path Path to a file to upload, if left `NULL`, the active file

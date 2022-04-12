@@ -90,8 +90,8 @@ want to set a location accessible only to my team for instance :
     # And they can loot as above
     loot("<mycompany>")
 
-We can shoot and loot a full workspace with `shoot_workspace()` and
-`loot_workspace()`.
+We can shoot and loot the entire global environment with
+`shoot_workspace()` and `loot_workspace()`.
 
 If we’re using RStudio we can shoot and loot a file `shoot_file()` and
 `loot_file()`. By default `shoot_file()` uploads the current script
