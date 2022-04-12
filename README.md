@@ -86,9 +86,9 @@ want to set a location accessible only to my team for instance :
     # in my team mate's .RProfile
     options(shootnloot.ids = c(<mycompany> = <my_new_id>))
     # And then I can shoot safely :
-    shoot(mydata, "<mycompany>")
+    shoot_object(mydata, "<mycompany>")
     # And they can loot as above
-    loot("<mycompany>")
+    loot_object("<mycompany>")
 
 We can shoot and loot the entire global environment with
 `shoot_workspace()` and `loot_workspace()`.
