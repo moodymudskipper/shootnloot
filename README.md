@@ -5,11 +5,12 @@
 
 EXPERIMENTAL
 
-A package to easily share objects between sessions. You’ll need a google
-account.
+A package to easily share objects between remote sessions. You’ll need a
+google account.
 
 With {shootnloot} it takes a single call to upload an object, a script,
-or your full workspace, and more call on the recipient side to fetch it.
+or your full workspace, and one more call on the recipient side to fetch
+it.
 
 ## Installation
 
